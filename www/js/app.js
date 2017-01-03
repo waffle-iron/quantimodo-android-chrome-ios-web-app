@@ -1470,6 +1470,17 @@ angular.module('starter',
                 }
             }
         })
+        .state('app.splash', {
+            url: "/splash",
+            cache: true,
+            params: { },
+            views: {
+                'menuContent': {
+                    templateUrl: "templates/splash.html",
+                    controller: 'SplashCtrl'
+                }
+            }
+        })
         .state('app.favoriteAdd', {
             url: "/favorite-add",
             cache: false,
