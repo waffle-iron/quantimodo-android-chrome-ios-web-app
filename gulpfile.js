@@ -1867,7 +1867,7 @@ gulp.task('buildChromeExtension', [], function(callback){
         'resizeIcons',
         'copyIconsToWwwImg',
         'copyWwwFolderToChromeExtension',  //Can't use symlinks
-		'copyManifestToChromeExtension',
+		//'copyManifestToChromeExtension',
 		'removeFacebookFromChromeExtension',
 		'zipChromeExtension',
 		'unzipChromeExtension',
