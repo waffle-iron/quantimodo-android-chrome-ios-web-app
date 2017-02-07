@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/QuantiModo/quantimodo-android-chrome-ios-web-app.png?label=ready&title=Ready)](https://waffle.io/QuantiModo/quantimodo-android-chrome-ios-web-app)
 # QuantiModo Ionic App
 
 A generic app that can be easily configured to help the user track and optimize any given outcome variable.
